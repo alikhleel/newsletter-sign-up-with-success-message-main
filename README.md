@@ -119,3 +119,6 @@ This is where you can give a hat tip to anyone who helped you out on this projec
 - [Next.js](https://nextjs.org/) - React framework
 - [Tailwind](https://tailwindcss.com/) - CSS framework
 
+
+## Live Preview
+<a href="https://newsletter-sign-up-with-success-message-main-umber.vercel.app/">News Letter Sign-up</a>
