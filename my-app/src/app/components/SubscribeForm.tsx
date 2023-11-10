@@ -1,7 +1,6 @@
 "use client";
 
 import React from "react";
-import { submitSubscribeForm } from "@/app/actions";
 import { useRouter } from "next/navigation";
 
 export default function SubscribeForm() {
